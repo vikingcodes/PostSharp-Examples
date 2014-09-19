@@ -1,0 +1,11 @@
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\ClassProject2.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\ClassProject2.pdb
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\ClassProject1.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\PostSharp.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\ClassProject1.pdb
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\PostSharp.xml
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\bin\Debug\ClassProject2.pssym
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\obj\Debug\ClassProject2.csprojResolveAssemblyReference.cache
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\obj\Debug\ClassProject2.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\obj\Debug\ClassProject2.pdb
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject2\ClassProject2\obj\Debug\ClassProject2.dll.postsharp

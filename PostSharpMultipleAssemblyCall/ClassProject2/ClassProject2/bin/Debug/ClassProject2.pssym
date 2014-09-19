@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[ClassProject1]ClassProject1.TestAspect">
+    <Instance Declaration="#2=M:[ClassProject2]ClassProject2.UseAspect::TestingAspect()" Id="be33343ab60dce98">
+      <Target>
+        <JoinPoint Advising="#1" Description="#3=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>

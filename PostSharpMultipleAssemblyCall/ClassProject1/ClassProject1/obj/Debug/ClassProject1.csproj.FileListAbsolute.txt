@@ -1,0 +1,8 @@
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\bin\Debug\ClassProject1.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\bin\Debug\ClassProject1.pdb
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\bin\Debug\PostSharp.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\bin\Debug\PostSharp.xml
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\bin\Debug\ClassProject1.pssym
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\obj\Debug\ClassProject1.dll
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\obj\Debug\ClassProject1.pdb
+D:\Virender\PostSharpMultipleAssemblyCall\ClassProject1\ClassProject1\obj\Debug\ClassProject1.dll.postsharp
